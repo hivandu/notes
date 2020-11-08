@@ -1,1 +1,1 @@
-- [SQL 练习1](/Data/SQL_ext_1)
+- [练习](/Data/exercise)
