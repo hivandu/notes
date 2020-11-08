@@ -9,8 +9,7 @@
     - [移动](/Mobile/)
     - [网络](/NET/)
     - [系统](/System/)
-- **About**
-    - [About](/jotting/about)
+- **[About](/jotting/about)**
     - [Github](https://github.com/hivandu)
     - [Twitter](https://twitter.com/hivan)
     - [Linkin](https://www.linkedin.com/in/hivandu/)
