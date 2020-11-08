@@ -1,12 +1,4 @@
----
-title: 模拟器的app2sd
-date: 2009-8-10 13:02:52
-categories:
-- develop
-tags:
-- Android
-- Simulator
----
+# 模拟器的app2sd
 
 一个读者**@XXX(因为个人意愿隐掉名字)** 发mail询问我关于windows下模拟器app2sd的问题,先不说有没有必要,说一下我测试的结果! 本来我给他回邮件是让他试一下apptosd.apk的,后来越想越不对劲,所以自己做了下测试!结果如下:
 

@@ -1,18 +1,5 @@
----
-layout: post
-title: "CM6 test0 32b"
-date: 2010-07-06 15:01
-categories: 
-- develop
-tags: 
-- 32b 
-- Android 
-- CM 
-- G1 
-- rom
-published: true
-comments: true
----
+# CM6 test0 32b
+
 <p>好吧,熟悉的人看到标题应该能猜到这就是Android 2.2 的CM版本.没想到这么快会出现,和之前发布的版本不同,这次编译与CM大神的版本!没想到在和儿子过生的当间就发布了...
 <ul>
 	<li>基于7月5日最新CM6源码编译，新增了电池百分比显示的开关，在Cyanogenmod 设置里进行更改</li>

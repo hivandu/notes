@@ -1,19 +1,5 @@
----
-layout: post
-title: G1 蓝牙传输更新 Bluetooth File Transfer 1.4
-date: 2009-10-10 15:01
-categories:
-- develop
-tags:
-- Android
-- apk
-- bluetooth
-- file
-- G1
-- transfer
-published: true
-comments: true
----
+# G1 蓝牙传输更新 Bluetooth File Transfer 1.4
+
 <p>不知道有没有人和我遇到了一样的问题!在G1rom更新到固件1.6以后,app2sd的Bluex1.12版本无法安装,而无app2sd版本的在安装后只能发送文件而无法打开蓝牙端口接收!</p>
 
 <p>有兴趣的朋友可以<a href="http://doo.hivan.net/archives/967.html">到这里下载</a>以后试试.

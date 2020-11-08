@@ -5,6 +5,7 @@
 - [ruby1.9.3 for Lion](/Develop/ruby1-dot-9-3-for-lion)
 - [set ARC in Xcode 5](/Develop/set-arc-in-xcode-5)
 - [Ruby Range](/Develop/ruby-range)
+- [to_s；to_str；inspect](/Develop/to-s-and-to-str-and-inspect)
 - [ruby-「file」](/Develop/ruby-「file」)
 - [Windows 8安装Octopress记录](/Develop/octopress-install-to-windows8)
 - [npm-check](/Develop/npm-check)

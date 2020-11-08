@@ -1,14 +1,5 @@
----
-layout: post
-title: "Android 3.0"
-date: 2010-07-03 15:01
-categories: 
-- develop
-tags: 
-- Android
-published: true
-comments: true
----
+# Android 3.0
+
 <p>好吧,7.1号Eldar Murtazin在其博客上已经放出一个可信度比较高的谣言,就是Android3.0将于十月份发布,代号姜饼(Gingerbread)
 <img src="http://www.unwiredview.com/wp-content/uploads/2010/06/Android-Gingerbread.jpg" alt="" />
 据传,3.0rom将会针对高端市场,分辨率达到了1280X760,支持此系统的最低配置将为1Ghz处理器,512M内存.可以这么说,在3.0系统发布以后,就可以正式宣布G1被彻底淘汰了.

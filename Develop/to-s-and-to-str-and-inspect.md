@@ -1,11 +1,4 @@
----
-title: to_s；to_str；inspect
-date: 2013-4-19 14:13:50
-categories:
-- develop
-tags:
-- Ruby
----
+# to_s；to_str；inspect
 
 这篇文是转载自「Rubylution」，似乎那上边也是转载自「Ruby-china」。
 

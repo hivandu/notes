@@ -1,16 +1,5 @@
----
-layout: post
-title: Android G1 的优化
-date: 2010-03-08 15:01
-categories:
-- develop
-tags:
-- Android
-- G1
-- 优化
-published: true
-comments: true
----
+# Android G1 的优化
+
 <p>我是第一批使用android的用户,那个时候没有别的选择,只有G1好选择.所幸买的是英版全白.这个机型据说是很少的.包装里带彩贴的那种!</p>
 
 <p>可是时间长了,G1的诟病也就出现了,系统不断升级,虽然有很多自制包提供下载,解决了官方不在支持G1的问题,可是速度上和原来的设计问题没有办法解决!</p>

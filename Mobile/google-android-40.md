@@ -1,14 +1,5 @@
----
-layout: post
-title: "Google  Android 4.0"
-date: 2011-10-19 23:51
-categories: 
-- develop
-tags: 
-- Android 
-- Google
-comments: true
----
+# Google  Android 4.0
+
 10,19日上午十点左右,Google,三星在香港联合举办了发布会,推出了下一代Android系统(Ice Cream Sandwich)Android4.0,以及下一代Nexus智能手机,三星Galaxy Nexus Prime.
 
 这次的软件开发包也在这次大会宣布可以下载使用,在developer,android.com上.

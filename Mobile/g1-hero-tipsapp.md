@@ -1,16 +1,5 @@
----
-layout: post
-title: G1上打造Hero!(更新tips&app)
-date: 2009-08-28 15:01
-categories:
-- develop
-tags:
-- G1
-- hero
-- rom
-published: true
-comments: true
----
+# G1上打造Hero!(更新tips&app)
+
 <p>这本来是安卓上发布的一片帖子,我写在这里主要是为了为自己增加点浏览量!顺便解解眼馋.但是我并不打算在这里提供教程和下载!
 <del datetime="2009-08-28T10:24:55+00:00">(由于flickr最近不稳定,所以图片显现不出来!)</del>是由于博客上的flickr插件的原因..</p>
 

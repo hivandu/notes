@@ -1,16 +1,5 @@
----
-layout: post
-title: Gphone SD卡分区(更新)
-date: 2009-09-03 15:01
-categories:
-- develop
-tags:
-- Android
-- sdcard
-- 分区
-published: true
-comments: true
----
+# Gphone SD卡分区(更新)
+
 <p>以前写过一个<a href="http://doo.hivan.net/archives/877.html">Gphone app2sd的完全教程</a>,在那个教程当中有完整的分区步骤,可是那个分区模式是需要linux系统才可以执行,而我当时用的是ubuntu.</p>
 
 <p>现在可行的分区模式也就是linux下,然后windows下的分区软件.譬如PartitionManager,AcronisDiskDirector,不要去想PQ魔术师,那个不支持sd卡分区!就这么多了么?...其实,如果你有Gphone手机的话,完全可以用windows dos来分区!

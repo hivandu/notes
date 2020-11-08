@@ -1,17 +1,5 @@
----
-layout: post
-title: Android 简易访问Twitter,youtube,facebook方法
-date: 2009-08-11 15:01
-categories:
-- web
-tags:
-- Android
-- facebook
-- twitter
-- utube
-published: true
-comments: true
----
+# Android 简易访问Twitter,youtube,facebook方法
+
 <p>其实就是修改hosts文件.<br />
 而这个hosts文件我是已经修改完毕的...直接cat到手机内覆盖原文件就可以了!</p>
 

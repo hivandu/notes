@@ -1,16 +1,5 @@
----
-layout: post
-title: android 模拟器随意换skin
-date: 2009-08-29 15:01
-categories:
-- develop
-tags:
-- Android
-- skin
-- 模拟器
-published: true
-comments: true
----
+# android 模拟器随意换skin
+
 <p>在安卓中叫兽曾经写过两个换肤教程.而教程中写的是替换原文件包...其实这个完全没必要.只要在模拟器的快捷方式中加入一段代码就好了...</p>
 
 <p><code>-avd avdname <strong>-skin skinname</strong></code></p>

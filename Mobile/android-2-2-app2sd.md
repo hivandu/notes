@@ -1,15 +1,5 @@
----
-layout: post
-title: "Android 2.2 App2sd 问题"
-date: 2010-12-11 15:01
-categories:
-- develop
-tags:
-- Android
-- app2sd
-published: true
-comments: true
----
+# Android 2.2 App2sd 问题
+
 <p>其实比起以前版本的app2sd来说,设置是一样的!只是多了一个步骤,就是需要给rom添加一个sdext.然后所有的设置就和以前的版本一模一样了.</p>
 
 <p>首先当然需要有一个已经分好区的sdcard,具体设置可以查看我以前的文,有ubuntu下进行分区的和windows下的!</p>

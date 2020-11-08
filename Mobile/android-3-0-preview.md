@@ -1,17 +1,5 @@
----
-layout: post
-title: "Android 3.0 Preview"
-date: 2011-01-06 18:21
-categories: 
-- develop
-tags: 
-- Android 
-- Android-3.0 
-- Google 
-- preview
-published: true
-comments: true
----
+# Android 3.0 Preview
+
 <p>整个界面都显得很陌生啊!大家可以从视频中看到.
 <!--more-->
 <ul>

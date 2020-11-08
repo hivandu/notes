@@ -1,19 +1,5 @@
----
-layout: post
-title: "Android 4.0 通讯录与Google+的深度整合" 
-date: 2012-01-28 12:16
-comments: true
-categories:
-- develop
-tags: 
-- Android 
-- 通讯录 
-- Google-Plus 
-- connection 
-- 选单 
-- 整合 
-- Gtalk
----
+# Android 4.0 通讯录与Google+的深度整合
+
 在4.0以前,我记得Android里的通讯录名称是“contact”.而在4.0之后,我的手机上是4.0.3,将其更改为“people”了.
 
 而更改的不仅仅是这小小的名称!大家都记得在之前版本的contact里,拨打界面和通讯录界面是整合在一起的.所以那个时候我第一屏单单放一个拨打电话就OK了.需要查找通讯录的话,可以切换tab.

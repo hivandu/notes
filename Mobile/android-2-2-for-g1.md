@@ -1,15 +1,5 @@
----
-layout: post
-title: "Android 2.2 for G1"
-date: 2010-07-03 15:01
-categories:
-- develop
-tags:
-- Android 2.2
-- G1
-published: true
-comments: true
----
+# Android 2.2 for G1
+
 <p>親愛的Android,我回歸了...說實話,後兩個月我真的有些壓抑.現在感覺解脫了!
 <img src="http://farm5.static.flickr.com/4080/4754782987_f6b843d0c0.jpg" alt="" />
 Android 2.2 For G1 已經被C神放出,貌似解決了相機問題,而其他問題暫時沒有進行測試,因為本人也正在下載中...萬分期待!</p>
