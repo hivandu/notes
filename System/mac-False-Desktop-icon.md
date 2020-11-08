@@ -1,10 +1,4 @@
----
-title: Mac隐藏/显示桌面图标
-date: 2016-08-25 09:56:33
-tags: 
-- system
-- MacOS
----
+# Mac隐藏/显示桌面图标
 
 ## Shell:
 

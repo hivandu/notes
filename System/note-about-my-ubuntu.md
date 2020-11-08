@@ -1,12 +1,4 @@
----
-title: Note about my ubuntu
-date: 2012-4-9 11:49:33
-categories:
-- develop
-tags:
-- ubuntu
-- linux
----
+# Note about my ubuntu
 
 这是我为了便于自己以后方便而记录的一些关于我ubuntu上设置所需要的内容！当然其中内容都是通用的，只是如果你们要拿去用的话记得将路径以及一些变量变成你自己的！
 

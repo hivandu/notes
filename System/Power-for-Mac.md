@@ -1,11 +1,4 @@
----
-title: Power for Mac
-date: 2015-01-09 14:17:09
-tags: 
-- pow
-- server
-- ROR
----
+# Power for Mac
 
 ![image][1]
 

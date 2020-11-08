@@ -1,12 +1,4 @@
----
-title: 在Yosemite中设置Pow
-date: 2014-11-07 15:58:06
-tags:
-- Yosemite
-- OSX
-- Mac
-- pow
----
+# 在Yosemite中设置Pow
 
 在Yosemite中，Pow安装和启动是有问题的。这是因为ipfw被移除了，所以如果要在Yosemite中跑Pow，需要做些设置才可以。
 

@@ -1,18 +1,5 @@
----
-layout: post
-title: "使用WAMP5搭建Apache+MySQL+PHP环境"
-date: 2006-07-19 14:21
-categories: 
-- develop
-tags:
-- jazz
-- kis
-- msn
-- windows 8
-- wordcamp
-published: true
-comments: true
----
+# 使用WAMP5搭建Apache+MySQL+PHP环境
+
 目前有不少AMP（Apache\MySQL\PHP）的集成软件，可以让我们一次安装并设置好。这对于不熟悉AMP的用户来说，好处多多。
 
 

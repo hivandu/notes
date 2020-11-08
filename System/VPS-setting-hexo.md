@@ -1,15 +1,4 @@
----
-layout: post
-title: "VPS 设置 Hexo"
-date: 2014-11-02 12:13
-comments: true
-tags: 
-- VPS
-- hexo
-- Dropbox
-- SSH
-- linux
----
+# VPS 设置 Hexo
 
 首先需要感谢@[lucifr](http://lucifr.com/)，我现在这篇文就是在iPad上登录VPS完成的。最后还是忍不住入手了下边两个APP:
 

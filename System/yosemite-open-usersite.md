@@ -1,13 +1,4 @@
----
-title:
-  - Yosemite访问用户级服务器目录
-date: 2014-10-22 17:44:50
-tags:
-- Yosemite
-- Macbook
-- OSX
-- localhost
----
+# Yosemite访问用户级服务器目录
 
 升级到OSX 10.10(Yosemite)以后，`localhost`是可以正常访问的，只是`localhost/~user`无法打开了，提示403错误。
 

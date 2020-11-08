@@ -1,17 +1,5 @@
----
-layout: post
-title: 32位windows 7 安装64位系统
-date: 2010-04-06 15:01
-categories:
-- develop
-tags:
-- 32bit
-- 64bit
-- System
-- windows 7
-published: true
-comments: true
----
+# 32位windows 7 安装64位系统
+
 <p>前言:
 <ul>
 	<li>我并不是为了双系统</li>

@@ -1,11 +1,4 @@
----
-title: 'mac:port occupied'
-date: 2016-08-20 21:47:41
-tags:
-  - system
-  - macOS
-  - port
----
+# mac:port occupied
 
 查询:
 ```powershell

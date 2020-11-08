@@ -1,11 +1,4 @@
----
-title: Debian安装SSH
-date: 2016-05-12 12:02:56
-tags: 
-- linux
-- ssh
-- dote
----
+# Debian安装SSH
 
 <span style="font-size:14px; color: #eee;">for my dote</span>
 

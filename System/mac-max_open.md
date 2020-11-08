@@ -1,11 +1,5 @@
----
-title: Mac MAX_open
-date: 2013-8-18 23:36:17
-categories:
-- develop
-tags:
-- OSX
----
+# Mac MAX_open
+
 在使用Hexo的过程里，经常会卡在deploy指令上，错误原因之一可能是因为Mac的MAX_open数小的原因，Linux默认为1024，而Mac上只有256，所以只要修改MAX_open数就可以了。指令如下：
 
 <!--more-->

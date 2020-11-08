@@ -1,12 +1,4 @@
----
-title: Debian上安装Node服务器
-date: 2016-07-28 16:43:17
-tags:
-- Debian
-- Linux
-- Node
-- Server
----
+# Debian上安装Node服务器
 
 ### 本教程只针对我自己，记录用，而且并不是完整版，不对其他人负责。请尽量不要参照本文
 

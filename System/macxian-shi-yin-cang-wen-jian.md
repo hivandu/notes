@@ -1,12 +1,5 @@
----
-title: Mac显示隐藏文件
-date: 2013-5-1 23:37:32
-categories:
-- develop
-tags:
-- Mac
-- OSX
----
+# Mac显示隐藏文件
+
 转载自[Mac疯](http://mac.linsheng.me/archives/537.html)，记录而已，不长用，老是记不住，每次都要Google，郁闷！
 
 显示文件：

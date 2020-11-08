@@ -1,19 +1,5 @@
----
-layout: post
-title: "安全玩你的Win8" 
-date: 2012-03-27 12:16
-comments: true
-categories: 
-- software
-tags: 
-- 恢复 
-- windows
-- 系统 
-- 优化 
-- store 
-- bug 
-- Metro
----
+# 安全玩你的Win8
+
 不错，我再三就结下才决定玩一下Windows 8，不过也是因为最近稍微闲了一点！早就体验过的不要说我火星就好了。
 
 首先我要说，对于现阶段的Win8，千万不要使用任何的优化软件！
