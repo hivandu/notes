@@ -1,13 +1,5 @@
----
-title: Devices from xcode
-date: 2013-8-25 17:27:08
-categories:
-- develop
-tags:
-- xcode
-- ios
-- iPhone
----
+# Devices from xcode
+
 在不用开发者帐号升级iPhone的时候就只有下载网上放出的固件进行升级，可是总有不小心的是没有进行升级，而是进行了重置！
 
 OK，如果没有开发者帐号而使用了iOS7固件进行重置，那么你的机子就根本无法通过Apple.inc的验证，也就是说只能卡在一开始的设置界面，无法开始使用你的iPhone。

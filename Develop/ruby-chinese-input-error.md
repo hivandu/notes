@@ -1,12 +1,5 @@
----
-title: Ruby Chinese input error
-date: 2012-9-16 12:18:00
-categories:
-- develop
-tags:
-- Ruby
-- Chinese
----
+# Ruby Chinese input error
+
 这里是有需求了才知道有麻烦了.一直按照剧本来演, 根本就不知道自己再超脱剧本之外有多大的创造力.而当自己真的开始尝试了以后,才知道有这样那样诸多的问题.
 
 <!-- more -->

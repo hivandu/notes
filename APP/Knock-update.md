@@ -1,10 +1,4 @@
----
-title: Knock 升级 -- 快速输入管理员密码
-date: 2015-02-15 14:39:50
-tags:
----
-
-![image][1]
+# Knock 升级 -- 快速输入管理员密码
 
 [本文知乎专栏][4]
 
@@ -16,10 +10,4 @@ tags:
 
 好吧，现在可以为自己的Mac设定一个超级复杂的密码了。
 
-![image][2]
-![image][3]
-
-[1]:	http://duart.qiniudn.com/knock_web.jpg
-[2]:	http://duart.qiniudn.com/knock_lock.jpg
-[3]:	http://duart.qiniudn.com/knock_mac.jpg
 [4]: http://zhuanlan.zhihu.com/hivandu/19984977

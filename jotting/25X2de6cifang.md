@@ -1,14 +1,6 @@
----
-date: 2014-06-04
-tags:
-    - life
-author: Hivan
-location: Shanghai
----
+# 纪念
 
-# title: 纪念
-
-```
+```xml
 	<math xmlns='http://www.w3.org/1998/Math/MathML'>
 	  <mn>25</mn>
 	  <mo> &#x00D7;<!--multiplication sign --></mo>

@@ -1,11 +1,4 @@
----
-title: Chrome 无法打开 Google Music
-date: 2011-10-26 17:16:37
-categories:
-- software
-tags:
-- Google
----
+# Chrome 无法打开 Google Music
 
 这两个本家的互相死磕是我没有想到的! 其实这个不能责怪Chrome,全是因为扩展搞的鬼!
 

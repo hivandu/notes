@@ -1,12 +1,4 @@
----
-title: set ARC in Xcode 5
-date: 2013-9-28 12:29:12
-categories:
-- develop
-tags:
-- xcode
-- ARC
----
+# set ARC in Xcode 5
 
 在Xcode5中遇到一个问题，从老师那里继承的习惯，就是自己写release, 而到了xcode5中，自己写release会显示错误，其中的原因就是xcode5默认是使用自动ARC机制的。
 

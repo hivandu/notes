@@ -1,12 +1,4 @@
----
-title: Ruby 中文错误-ASCII
-date: 2012-7-27 12:16:58
-categories:
-- develop
-tags:
-- Ruby
-- Chinese
----
+# Ruby 中文错误-ASCII
 
 才开始学习Ruby,当然免不了诸如此类的错误!未免忘记,还是记录一下!好记性不如烂笔头...
 

@@ -1,10 +1,4 @@
----
-title: 'Alfred 2 Plugin -- open in Atom'
-date: 2014-09-09 16:17:05
-tags: 
-- Alfred
-- Plugin
----
+# Alfred 2 Plugin -- open in Atom
 
 ![atom.alfredworkflow](https://farm6.staticflickr.com/5590/15187112175_5ff1cf4549_z_d.jpg)
 

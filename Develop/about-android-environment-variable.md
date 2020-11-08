@@ -1,11 +1,4 @@
----
-title: 关于android开发中的环境变量
-date: 2009-5-23 14:36:17
-categories:
-- develop
-tags:
-- Android
----
+# 关于android开发中的环境变量
 
 在使用Eclipse的过程中有三个关于变量的问题我一直搞不懂,在坛子里询问高人.
 

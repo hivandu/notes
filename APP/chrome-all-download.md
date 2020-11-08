@@ -1,12 +1,4 @@
----
-title: chrome-all-download
-date: 2013-3-8 17:07:01
-categories:
-- software
-tags:
-- Google
-- Chrome
----
+# chrome-all-download
 
 ## Chrome OS 下载（由 Hexxeh提供的第三方编译版本）：
 

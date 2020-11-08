@@ -1,15 +1,5 @@
----
-layout: post
-title: "上手iPad"
-date: 2010-05-04 15:01
-categories: 
-- life
-tags: 
-- ipad 
-- owen
-published: true
-comments: true
----
+# 上手iPad
+
 <p>呃,总体感觉还算不错...不过习惯了手机的硬体输入,发现在iPad上输入很别扭.放腿上还算体验不错,不过还是很别扭!</p>
 
 <p>百分之五十以上的iPhone程序iPad都支持,只是小了一号.有缩放功能,将整体iPhone的app界面放大到iPad,会有锯齿和模糊!</p>

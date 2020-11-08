@@ -1,11 +1,5 @@
----
-title: ruby-「file」
-date: 2012-11-5 12:14:41
-categories:
-- develop
-tags:
-- Ruby
----
+# ruby-「file」
+
 读取一行
 
 ```

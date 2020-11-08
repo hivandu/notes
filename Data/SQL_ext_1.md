@@ -1,13 +1,5 @@
----
-title: SQL练习1
-date: 2020-10-26
-author: Hivan
-tag:
-    - sql
-    - data
----
 
-
+# SQL练习1
 
 -- UPPER 是转换大写的函数
 

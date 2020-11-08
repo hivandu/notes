@@ -1,12 +1,4 @@
----
-title: 字符icon乱码
-date: 2013-3-26 14:24:47
-categories:
-- software
-tags:
-- Chrome
-- plugin
----
+# 字符icon乱码
 
 <!-- more -->
 

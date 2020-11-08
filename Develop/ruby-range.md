@@ -1,11 +1,4 @@
----
-title: Ruby Range
-date: 2012-11-6 12:19:48
-categories:
-- develop
-tags:
-- Ruby
----
+# Ruby Range
 
 Range在概念上看是非常直观的。不过在实际的使用中，我们可能会遇到一些令人混淆的东西。
 看如下代码：

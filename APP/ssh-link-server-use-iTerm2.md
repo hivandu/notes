@@ -1,8 +1,4 @@
----
-title: ssh link server use iTerm2
-date: 2017-09-23 23:42:30
-tags:
----
+# ssh link server use iTerm2
 
 ```powershell
 $ ssh-keygen -t rsa -C hvian -f id_rsa

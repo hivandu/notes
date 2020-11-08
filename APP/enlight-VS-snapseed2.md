@@ -1,9 +1,4 @@
----
-title: enlight VS snapseed2
-date: 2015-04-10 15:13:48
-tags:
-- app
----
+# enlight VS snapseed2
 
 ![image][1]
 

@@ -1,17 +1,5 @@
----
-layout: post
-title: "Apache+PHP+MySQL+WordPress 本地架设的方法（转载）"
-categories: 
-- develop
-tags: 
-- apache 
-- mysql 
-- php 
-- wordpress 
-- 架设
-date: 2006-07-28 17:21 
-comments: true
----
+# Apache+PHP+MySQL+WordPress 本地架设的方法（转载）
+
 转载自[google搜索](http://www.google.com/search?hl=zh-CN&amp;newwindow=1&amp;client=firefox&amp;rls=org.mozilla%3Azh-CN%3Aofficial&amp;q=%E6%9C%AC%E5%9C%B0%E6%9E%B6%E8%AE%BEphp+mysql+%E8%BD%AF%E4%BB%B6&amp;btnG=%E6%90%9C%E7%B4%A2&amp;lr=)
 
 ###系统环境:###

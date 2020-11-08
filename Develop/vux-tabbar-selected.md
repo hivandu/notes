@@ -1,9 +1,4 @@
----
-title: vux更改Tabbar选中状态
-date: 2017-11-01 23:56:29
-tags:
-- vue
----
+# vux更改Tabbar选中状态
 
 在vux的文档和示例中，都没有明确的说明tabbar上v-model的使用
 

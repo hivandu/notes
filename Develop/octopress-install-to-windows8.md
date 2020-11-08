@@ -1,13 +1,4 @@
----
-title: Windows 8安装Octopress记录
-date: 2012-4-7 11:59:25
-categories:
-- develop
-tags:
-- windows
-- octopress
-- code
----
+# Windows 8安装Octopress记录
 
 ### 前言
 

@@ -1,14 +1,6 @@
----
-layout: post
-title: picasa2
-date: 2006-05-11
-categories: 
-- software
-tags: 
-- picasa 
-- google
-comments: true
----
+
+# picasa2
+
 由于我是作图的，所以电脑里各种素材和作品很多，容量差不多有100GB，里面有相当不少的文件体积不小于100MB或者更大。
 
 使用ACDSee来管理的话，速度较慢，经常很长的时间都没有反应，而且笔者隔几天就会有新的图片和数码照片输入到计算机里，图片库在不断增加。

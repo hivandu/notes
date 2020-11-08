@@ -1,13 +1,4 @@
----
-layout: post
-title: "Hello 2012"
-date: 2011-12-31 18:13
-comments: true
-categories: 
-- life
-tags: 
-- 韩寒 
----
+# Hello 2012
 
 以2012起头,其实主要是想要写2011
 

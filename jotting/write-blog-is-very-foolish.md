@@ -1,16 +1,6 @@
----
-layout: post
-title: "其实,写blog是个很傻的行为"
-date: 2006-05-09 14:21
-categories:
-- web
-tags:
-- blog
-published: true
-comments: true
----
+# 其实,写blog是个很傻的行为
 
-**其实,写blog是个很傻的行为.**特别是象我一样拥有两个blog或胜于我拥有更多的人..
+**其实,写blog是个很傻的行为.** 特别是象我一样拥有两个blog或胜于我拥有更多的人..
 
 即便是傻吧.可是到现在我已经不能不有这些了。我宁愿傻下去..
 

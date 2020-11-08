@@ -1,11 +1,5 @@
----
-layout: post
-title: "freedom"
-date: 2006-03-10 13:12
-comments: true
-categories: 
-- life
----
+
+# FREEDOM
 
 许很多的影片我都应该从新温习一遍。不只是因为我学的就是这个，更重要的是每次看一遍都能理解一些新的东西。
 

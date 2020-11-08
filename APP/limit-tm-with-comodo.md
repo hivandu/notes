@@ -1,17 +1,5 @@
----
-layout: post
-title: "用comodo 限制TM"
-date: 2010-03-25 15:01
-categories: 
-- software
-tags:
-- comodo
-- TM
-- 安全
-- 限制
-published: true
-comments: true
----
+# 用comodo 限制TM
+
 ![image](http://farm3.static.flickr.com/2561/4462263640_d7626800ec_o.png)
 
 最近都在研究HIPS,说实话,这是一个比较麻烦的事情!

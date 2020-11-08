@@ -1,10 +1,4 @@
----
-title: npm-check
-date: 2017-02-13 10:54:03
-tags:
-- node
-- npm
----
+# npm-check
 
 npm-check是用来检查npm依赖包是否有更新，错误以及不在使用的，我们也可以使用npm-check进行包的更新。
 安装npm-check：

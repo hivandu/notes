@@ -1,12 +1,5 @@
----
-title: ruby1.9.3 for Lion
-date: 2012-7-17 12:24:15
-categories:
-- develop
-tags:
-- Ruby
-- OSX
----
+# ruby1.9.3 for Lion
+
 最近败了个MACBOOK PRO，才发现以前在PC上装的黑苹果和正宗的Lion简直是天差地别！好用到近期都不再碰Windows。
 
 其实说起来，网上大牛们都曾经说过开发Ruby的话，在Windows下是一种折磨，所以我一开始用过Ubuntu。其实我开始用Ruby的原因仅仅是因为Octopress，并且在Win8上使用过一段时间。看过我之前博客的人应该都知道，那真是段折磨人的日子。

@@ -1,16 +1,5 @@
----
-layout: post
-title: Evernote记录Java学习
-date: 2011-12-08 12:21
-categories: 
-- develop
-tags: 
-- evernote 
-- java 
-- share 
-- wiki
-comments: true
----
+# Evernote记录Java学习
+
 以前有段时间跟着别人弄Wiki,目的是为了记录自己的知识体系.
 
 其实,感觉Evernote记录起来更加方便!而且分享起来也非常方便,除了Linux系统以外,任何平台都就可以在本地进行编辑.自动记录着实也很爽!

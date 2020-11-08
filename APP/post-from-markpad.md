@@ -1,16 +1,4 @@
----
-layout: post
-title: "利用Markpad发布博客" 
-date: 2012-03-30 12:16
-comments: true
-categories: 
-- software
-tags: 
-- markpad 
-- markdown 
-- wordpress 
-- windows
----
+# 利用Markpad发布博客
 
 这篇文章是来自Markpad，一款Windows上的Markdown写作软件，分屏预览，绑定自己的博客发布地址，并且很重要的一点，他是绿色的！
 

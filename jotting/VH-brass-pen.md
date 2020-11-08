@@ -1,8 +1,4 @@
----
-title: VH 情怀黄铜原子笔
-date: 2016-01-29 12:27:55
-tags:
----
+# VH 情怀黄铜原子笔
 
 [「知乎专栏地址」](http://zhuanlan.zhihu.com/hivandu/20542022)
 

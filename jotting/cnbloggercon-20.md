@@ -1,11 +1,5 @@
----
-layout: post
-title: "CnBloggerCon 2012"
-date: 2012-07-04 09:46
-comments: true
-categories: 
-- web
----
+# CnBloggerCon 2012
+
 一年一度的中文网志年会与今晨八点开始，不过没想到的是昨晚就已经完成了开幕式。在Google+上由[Isaac Mao](https://plus.google.com/u/0/108255121787158995006/posts)主持开幕Hangout视频。可惜我没有看到！
 ![CBC ShangHai](http://farm8.staticflickr.com/7248/7482001638_741df3dc29_z.jpg)
 

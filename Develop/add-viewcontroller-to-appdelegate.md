@@ -1,13 +1,4 @@
----
-title: Add ViewController to AppDelegate
-date: 2013-7-10 14:41:43
-categories:
-- develop
-tags:
-- ViewController
-- xcode
----
-
+# Add ViewController to AppDelegate
 
 之前一直是Nib形式建立ViewController视图，这样建立以后关系都是已经写好的，可是Nib有自己的弊端，虽然可视化很方便，可是无法很方便的管理自己的代码，并且灵活性不够。于是就想还是自己纯粹手动代码建立视图来的灵活一点。
 

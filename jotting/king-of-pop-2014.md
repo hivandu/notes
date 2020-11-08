@@ -1,9 +1,4 @@
----
-title: 'King of pop 2014'
-date: 2014-06-25 09:54:28
-tags: 
-- life
----
+# King of pop 2014
 
 I MISS U.
 

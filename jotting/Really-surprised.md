@@ -1,14 +1,6 @@
----
-layout: post
-title: "真是很意外" 
-date: 2005-12-12 21:07
-comments: true
-categories: 
-- life
-tags: 
-- msn 
-- 冯文
----
+
+# 真是很意外
+
 真是很意外@突然收到一个人加MSN的邀请。。
 
 发现这个人有空间@便很有兴趣的进去看看。。

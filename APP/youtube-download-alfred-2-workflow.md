@@ -1,12 +1,4 @@
----
-title: Youtube Download Alfred 2 Workflow
-date: 2013-8-28 14:31:23
-categories:
-- develop
-tags:
-- Alfred
-- workflow
----
+# Youtube Download Alfred 2 Workflow
 
 在Youtube上浏览某个视频的时候，有没有很想下下来的冲动？毕竟有的时候VPN和SSH都不是太给力的时候，Youtube并不流畅，是慢慢加载？反正我是喜欢下载到本地。
 

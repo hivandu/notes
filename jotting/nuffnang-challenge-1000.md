@@ -1,13 +1,4 @@
----
-layout: post
-title: "拿福能千人挑战活动"
-categories: 
-- web
-tags: 广告 拿福能 活动 营销
-comments: true
-date: 2011-05-23 19:21
----
-
+# 拿福能千人挑战活动
 
 ###如何加入:###
 
