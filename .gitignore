@@ -1,1 +1,11 @@
 .vercel
+.DS_Store
+*.icloud
+Thumbs.db
+db.json
+debug.log
+node_modules/
+public/
+dist/
+.deploy/
+yarn.lock
