@@ -1,8 +1,3 @@
----
-Date: 2020-12-16
-Author: Hivan
----
-
 # M1安装Homebrew(ARM)
 
 
