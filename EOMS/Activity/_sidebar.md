@@ -1,4 +1,4 @@
-- [首页](/)
+- [首页](/EOMS/)
 - [先读我](/EOMS/Activity/)
 - [活动功能项整体规划](/EOMS/Activity/fun_global.md)
 - [活动规则列表及模版定义](/EOMS/Activity/rule.md)
