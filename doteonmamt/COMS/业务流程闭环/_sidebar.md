@@ -1,4 +1,4 @@
-- [首页](/doteonmamt/COMS/)
+- [首页](/doteonmamt/)
 - [业务概述](/doteonmamt/COMS/业务概述/)
 - [平台初建设](/doteonmamt/COMS/平台初建设/)
 - [业务流程闭环](/doteonmamt/COMS/业务流程闭环/)

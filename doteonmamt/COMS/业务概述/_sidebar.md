@@ -1,4 +1,4 @@
-- [首页](/doteonmamt/COMS/)
+- [首页](/doteonmamt/)
 - [业务概述](/doteonmamt/COMS/业务概述/)
   - [网鱼业务分析](/doteonmamt/COMS/业务概述/网鱼业务分析)
   - [业务组织架构](/doteonmamt/COMS/业务概述/业务组织架构)

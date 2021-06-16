@@ -1,4 +1,4 @@
-- [首页](/doteonmamt/EOMS/)
+- [首页](/doteonmamt/)
 - [先读我](/doteonmamt/EOMS/Goods/README)
 - [商品管理全局规划](/doteonmamt/EOMS/Goods/global)
     - [商品中台设计方案](/doteonmamt/EOMS/Goods/create_goods)
