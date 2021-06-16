@@ -1,8 +1,8 @@
 - [首页](/)
 - [产品](/Product/)
 - [大数据](/Data/)
-- [开发](/Develop/)
 - **其他**
+    - [开发](/Develop/)
     - [APP](/APP/)
     - [CG](/CG/)
     - [随笔](/jotting/)
