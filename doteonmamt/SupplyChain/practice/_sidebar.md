@@ -1,3 +1,3 @@
-- [首页](/doteonmamt/SupplyChain/)
+- [首页](/doteonmamt/)
 - [供应链实践](/doteonmamt/SupplyChain/practice/)
 - [供应链全局](/doteonmamt/SupplyChain/practice/global/)
