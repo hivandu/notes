@@ -2,7 +2,7 @@
 
 
 
-## [供应链](https://notes.hivan.me/#/doteonmamt/SupplyChain/)
+## [供应链](/doteonmamt/SupplyChain/)
 
 ## 产品
 
