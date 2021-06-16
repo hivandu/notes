@@ -1,0 +1,3 @@
+- [首页](/doteonmamt/)
+- [商品管理](/doteonmamt/EOMS/Goods/)
+- [活动管理](/doteonmamt/EOMS/Activity/)

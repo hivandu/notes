@@ -1,0 +1,4 @@
+- [首页](/doteonmamt/)
+- [COMS](/doteonmamt/COMS/)
+- [EOMS](/doteonmamt/EOMS/)
+- [商品管理](/doteonmamt/EOMS/Goods/)

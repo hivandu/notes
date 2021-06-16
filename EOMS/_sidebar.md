@@ -1,3 +1,0 @@
-- [首页](/)
-- [商品管理](/EOMS/Goods/)
-- [活动管理](/EOMS/Activity/)
