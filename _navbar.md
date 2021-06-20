@@ -6,3 +6,5 @@
     - [Github](https://github.com/hivandu)
     - [Twitter](https://twitter.com/hivan)
     - [Linkedin](https://www.linkedin.com/in/hivandu/)
+    - [供应链专栏-知乎](https://www.zhihu.com/column/c_111290080)
+    - [供应链专栏-网站](https://scm-blog.com/)
